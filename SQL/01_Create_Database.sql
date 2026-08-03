@@ -1,0 +1,1 @@
+CREATE DATABASE customer360_db;
